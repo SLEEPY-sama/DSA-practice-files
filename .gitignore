@@ -1,9 +1,13 @@
 bin/
 obj/
 .vs/
+Properties/
 *.user
 *.suo
 *.cache
 *.dll
 *.exe
 *.csproj
+*.config
+*.sin
+
