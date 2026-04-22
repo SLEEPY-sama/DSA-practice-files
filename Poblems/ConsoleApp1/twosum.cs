@@ -1,9 +1,12 @@
 ﻿using System;
 
-class twosum
-{
-    static void Main()
+class twosumproblem
+
     {
+    public static void Main1()
+    {
+
+       
         int[] nums = { 2, 7, 11, 15 };
         int target = 9;
 
