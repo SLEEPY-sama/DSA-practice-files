@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\c#_projects\\DSA file\\Poblems\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E755729E-5BD6-40AC-8B0A-C52C4534EB19}|ConsoleApp1.csproj|e:\\c#_projects\\dsa file\\poblems\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E755729E-5BD6-40AC-8B0A-C52C4534EB19}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E755729E-5BD6-40AC-8B0A-C52C4534EB19}|ConsoleApp1.csproj|e:\\c#_projects\\dsa file\\poblems\\consoleapp1\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E755729E-5BD6-40AC-8B0A-C52C4534EB19}|ConsoleApp1.csproj|solutionrelative:twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\c#_projects\\DSA file\\Poblems\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\c#_projects\\DSA file\\Poblems\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "twosum.cs",
+              "DocumentMoniker": "E:\\c#_projects\\DSA file\\Poblems\\ConsoleApp1\\twosum.cs",
+              "RelativeDocumentMoniker": "twosum.cs",
+              "ToolTip": "E:\\c#_projects\\DSA file\\Poblems\\ConsoleApp1\\twosum.cs",
+              "RelativeToolTip": "twosum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T12:10:57.534Z",
+              "WhenOpened": "2026-04-21T02:37:03.487Z",
               "EditorCaption": ""
             }
           ]
