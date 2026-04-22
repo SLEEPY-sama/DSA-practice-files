@@ -7,6 +7,7 @@ public class Structure
 
 		//twosumproblem.Main1();
 		//shiftzero.Method1();
-		Stockprediction.Stock();
+		//Stockprediction.Stock();
+	   
     }
 }
