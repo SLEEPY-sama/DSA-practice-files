@@ -2,12 +2,12 @@
   
     public class Structure
     {
-        // static void Main()
-      //  {
+        public static void Main()
+        {
 
             //twosumproblem.Main1();
             //shiftzero.Method1();
             //Stockprediction.Stock();
 
         }
-   // }
+    }
