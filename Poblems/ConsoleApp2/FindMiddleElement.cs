@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class repractice
+public class Findmiddleelement
 {
     public static void practice()
     {

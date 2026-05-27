@@ -3,9 +3,8 @@
     public static void Main(string[] args)
     {
         //slidingwindow();
-       // TwoSumII.Problem();
-      // RemoveDuplicatesfromSortedArray.practice();
-      //ContainerWithMostWater.practice();
+        // twopointer();
+        //fastandslowpointer();
         repractice.practice();
     }
 
@@ -18,6 +17,22 @@
         // Largestsubarrywithsumlessthenk.practice();
         //MaxAvarageSubarrayWithSizeK.practice();
         // MinimumSizeSubarraySum.practice();
+
+    }
+
+    public static void twopointer()
+    {
+        //TwoSumII.Problem();
+        //RemoveDuplicatesfromSortedArray.practice();
+        //ContainerWithMostWater.practice();
+        //SortColorsDutchNationalFlagProblem.practice();
+        //threeSum.practice();
+        //maximumtrappedwater.practice();
+        //repractice.practice();
+    }
+
+    public void fastandslowpointer()
+    {
 
     }
 }
