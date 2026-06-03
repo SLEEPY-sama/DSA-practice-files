@@ -5,6 +5,7 @@
         //slidingwindow();
         // twopointer();
         //fastandslowpointer();
+        //MergeIntervals();
         repractice.practice();
     }
 
@@ -33,6 +34,14 @@
 
     public void fastandslowpointer()
     {
+        //Findmiddleelement.practice();
+        //DetectCycleinArray.practice();
+        //FindDuplicateNumber.practice();
+    }
 
+    public void MergeIntervals()
+    {
+        //CLasicMergeIntervals.practice();
+        //CanAttendMeetings.practice();
     }
 }
