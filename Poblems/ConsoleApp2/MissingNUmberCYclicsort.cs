@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Generic; // Required for HashSet
 
-public class repractice
+public class MissingNumberCyclicsort
 {
     public static void Practice()
     {
@@ -37,5 +36,4 @@ public class repractice
 
         Console.WriteLine(nums.Length);
     }
-
 }
