@@ -1,4 +1,6 @@
-﻿public class Program
+﻿using System.Security.Cryptography.X509Certificates;
+
+public class Program
 {
     public static void Main(string[] args)
     {
@@ -6,7 +8,7 @@
         // twopointer();
         //fastandslowpointer();
         //MergeIntervals();
-        repractice.practice();
+        repractice.Practice();
     }
 
     public static void slidingwindow()
@@ -46,6 +48,12 @@
     }
 
     public void cyclicsort()
+    {
+        // MissingNumberCyclicsort.Practice();
+        //AllMissingNumbers.Practice();
+        //findDuplicateCYclicSort.Practice();
+    }
+    public void MonotonicStack()
     {
 
     }

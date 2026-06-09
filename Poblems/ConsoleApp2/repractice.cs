@@ -1,41 +1,17 @@
 ﻿using System;
-using System.Collections.Generic; // Required for HashSet
+using System.Collections.Generic;
+using System.Transactions; // Required for HashSet
 
 public class repractice
 {
     public static void Practice()
     {
-        int[] nums = { 3, 0, 1 };
-
-        int i = 0;
-
-        while (i < nums.Length)
+        int[] nums = { 2, 1, 2, 4, 3 };
+        for (int i = 0 ; i < nums.Length; i++)
         {
-            int correctIndex = nums[i];
-
-            if (nums[i] < nums.Length &&
-                nums[i] != nums[correctIndex])
-            {
-                int temp = nums[i];
-                nums[i] = nums[correctIndex];
-                nums[correctIndex] = temp;
-            }
-            else
-            {
-                i++;
-            }
+            nums[i]
         }
 
-        for (i = 0; i < nums.Length; i++)
-        {
-            if (nums[i] != i)
-            {
-                Console.WriteLine(i);
-                return;
-            }
-        }
 
-        Console.WriteLine(nums.Length);
     }
-
 }
