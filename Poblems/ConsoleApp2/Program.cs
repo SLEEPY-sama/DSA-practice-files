@@ -8,7 +8,7 @@ public class Program
         // twopointer();
         //fastandslowpointer();
         //MergeIntervals();
-        repractice.Practice();
+        Repractice.Practice();
     }
 
     public static void slidingwindow()

@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 
-public class Repractice
+public class RightGreatestMonotonicStack
 {
     public static void Practice()
     {
