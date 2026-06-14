@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
 
-public class Repractice
+public class StockSPanMonotonicStack
 {
     public static void Practice()
     {

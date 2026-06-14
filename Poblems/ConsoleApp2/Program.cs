@@ -31,7 +31,7 @@ public class Program
         //SortColorsDutchNationalFlagProblem.practice();
         //threeSum.practice();
         //maximumtrappedwater.practice();
-        //repractice.practice();
+     
     }
 
     public void fastandslowpointer()
@@ -55,6 +55,7 @@ public class Program
     }
     public void MonotonicStack()
     {
-
+        //DailyTemperaturesMonotonicStack.practice();
+      //  RightGreatestMonotonicStack.practice();
     }
 }
