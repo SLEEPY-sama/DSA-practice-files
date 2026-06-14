@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
 
-public class Repractice
+public class PreviousGreaterElementMonotonicStack
 {
     public static void Practice()
     {
@@ -10,7 +8,7 @@ public class Repractice
 
         Stack<int> stack = new Stack<int>();
 
-        for (int i = 0; i< nums.Length; i++)
+        for (int i = 0; i < nums.Length; i++)
         {
             while (stack.Count > 0 && stack.Peek() < nums[i])
             {

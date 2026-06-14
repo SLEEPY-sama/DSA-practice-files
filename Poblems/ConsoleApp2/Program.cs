@@ -57,5 +57,6 @@ public class Program
     {
         //DailyTemperaturesMonotonicStack.practice();
       //  RightGreatestMonotonicStack.practice();
+      //StockSPanMonotonicStack.Practice();
     }
 }
