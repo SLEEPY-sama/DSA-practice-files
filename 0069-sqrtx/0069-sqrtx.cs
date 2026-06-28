@@ -1,6 +1,6 @@
 public class Solution {
     public int MySqrt(int x) {
-       int left = 1;
+       int left = 0;
        int right = x;
 
        while (left <= right){
