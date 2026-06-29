@@ -28,7 +28,7 @@ public class Solution : VersionControl {
             
         }
 
-        return right;
+        return left;
 
 
     }
