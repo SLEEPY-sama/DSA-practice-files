@@ -114,4 +114,9 @@ This repository serves as:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
