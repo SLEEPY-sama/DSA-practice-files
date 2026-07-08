@@ -38,7 +38,7 @@ This repository contains my journey of learning and solving Data Structures and 
 ### Fast & Slow Pointers
 
 * Cycle Detection
-* Linked List Problems
+
 
 ### Sliding Window
 
@@ -82,7 +82,7 @@ For each problem I try to:
 ✅ Sliding Window
 ✅ Two Pointers
 ✅ Fast & Slow Pointers
-🔄 Linked Lists
+🔄 Top K elements
 ⏳ Trees
 ⏳ Graphs
 ⏳ Dynamic Programming
