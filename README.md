@@ -121,4 +121,28 @@ This repository serves as:
 | ------- |
 | [0278-first-bad-version](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0703-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SLEEPY-sama/DSA-practice-files/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
