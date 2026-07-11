@@ -4,13 +4,17 @@ public class Solution {
         PriorityQueue<int, int> heap = new PriorityQueue<int, int>();
 
         foreach(int num in nums){
-            heap.Enqueue(num,-num);
+
+            
+            heap.Enqueue(num,num);
+
+            if (heap.Count >k){
+                heap.Dequeue();
+            }
         }
 
 
-        for (int i = 0 ; i < k-1; i++ ){
-            heap.Dequeue();
-        }
+       
 
         return heap.Peek();
 
