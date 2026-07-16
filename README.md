@@ -47,11 +47,7 @@ This repository contains my journey of learning and solving Data Structures and 
 * Maximum Average Subarray
 * Minimum Size Subarray Sum
 
-### Linked Lists
 
-* Reversal
-* Cycle Detection
-* Middle Node
 
 ### Stacks & Queues
 
